@@ -1,0 +1,29 @@
+****
+Workflow:
+This is a workflow.  
+1) First you do step A
+2) Then you do step B
+3) Then you do step C
+
+****
+Requirements:
+Report Name: dope ass report
+Report Format: Excel
+Parameters: dateReported >= and dateReported <
+Columns:
+Type
+Title
+Reserve
+Cost
+Data Considerations:
+Use the proper timestamps
+
+****
+Expected outcome:
+The report should run in under 2 minutes:
+
+****
+Expected Workflow:
+1) First you do step E
+2) Then you do step F
+3) Then you do step G

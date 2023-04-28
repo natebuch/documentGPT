@@ -1,0 +1,26 @@
+{
+  "name": "one-ada",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.6.3",
+    "@pinecone-database/pinecone": "^0.0.12",
+    "canvas": "^2.11.2",
+    "dotenv": "^16.0.3",
+    "global": "^4.4.0",
+    "langchain": "^0.0.56",
+    "mammoth": "^1.5.1",
+    "pdfjs-dist": "^3.5.141",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "any-text": "^1.2.0",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.4"
+  }
+}
